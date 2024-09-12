@@ -8,10 +8,19 @@ Welcome to **C++ Safar**! This repository is my personal journey through the wor
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Folder-Structure](#Folder-Structure)
 - [Installation](#installation)
 - [Usage](#usage)
+  
 ## Introduction
 Exploring the depths of C++! Join me on a journey of learning and discovery as I dive into the world of C++ programming. Updating this repository with my progress, experiments, and newfound knowledge. Let's master C++ together.
+
+#Folder-Structure
+Arrays/ - Examples and exercises related to arrays.
+Basics/ - Fundamental C++ concepts and basic examples.
+Functions/ - Tutorials and examples on functions.
+Operators/ - Different operators and their usage.
+Practice/ - Practice problems and solutions.
 
 ## Installation
 To set up this project locally, follow these steps:
