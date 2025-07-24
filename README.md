@@ -24,8 +24,10 @@ Practice/ - Practice problems and solutions.
 
 ## Installation
 To set up this project locally, follow these steps:
-1. git clone https://github.com/akhl1234/C-Safar-A-Journey-of-Learning-and-Code-Mastery.git
-2. cd C-Safar-A-Journey-of-Learning-and-Code-Mastery
+
+```bash
+git clone https://github.com/akhl1234/DSA-with-CPP.git
+cd DSA-with-CPP
 
 ## Usage
 
